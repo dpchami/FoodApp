@@ -1,0 +1,12 @@
+//export const BASE_API = 'http://10.100.2.97/maziwa-online/web/api/default';
+//export const BASE_API = 'http://192.168.43.2/maziwa-online/web/api/default';
+//export const BASE_API = 'http://192.168.43.47:8888/api/default';
+//export const BASE_API = 'http://10.100.2.31:8888/api/default';
+export const BASE_API = 'https://kivo.co.tz/api/default';
+export const ALL_PRODUCT_URL = '/menu';
+export const LOGIN_URL = '/login';
+export const REGISTER_URL = '/register';
+export const VENDOR_LIST = '/vendor';
+export const CREATE_ORDER = '/make-order';
+export const ORDER_HISTORY = '/order-history';
+export const CUSTOM_PRODUCT_LIST = '/custom-product';

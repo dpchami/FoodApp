@@ -43,5 +43,10 @@
   },
   "jest": {
     "preset": "react-native"
+  },
+  "author": {
+    "name": "Deus Chami",
+    "email": "pascaldeus@yahoo.com",
+    "alias": "project developer"
   }
 }
